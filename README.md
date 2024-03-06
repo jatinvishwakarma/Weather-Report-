@@ -1,6 +1,14 @@
 # Weather-Report-
   Developed as a dynamic web application, the Weather Report project integrates HTML, CSS, JavaScript, Java JSP, and Servlets to deliver a user-friendly and responsive Weather App. 
 
+"Weather Report" project utilizes the following technologies:
+
+- HTML/CSS: Create the structure and design of the user interface.
+- JavaScript: Adds interactivity and fetches dynamic weather data.
+- Java JSP: Facilitates server-side rendering for dynamic content.
+- Java Servlets: Manages user requests and handles server-side logic.
+- Weather API: Fetches real-time weather data for display.
+
 The project follows a structured approach:
 
 * Setting up the Project Environment: Establishing the necessary infrastructure for the project, including configuring the development environment.
